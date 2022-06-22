@@ -1,1 +1,3 @@
-# desafio-go
+# Desafio Docker + Go
+
+Imagem Docker Hub: rafinhacancian/codeeducation
